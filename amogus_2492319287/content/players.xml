@@ -1,0 +1,8 @@
+<players nameimageroot="gfx/ui/boss/" portraitroot="gfx/ui/stage/" root="gfx/characters/costumes/">
+	<player hp="6" name="Amogus" items="467" pocketActive="396"
+	nameimage="playername_amogus.png" portrait="playerportrait_amogus.png" skin="character_amogus.png" skincolor="-1" costumeSuffix="amogus" birthright="You have drip"
+	/>
+	<player hp="4" black="4" name="Imposter" items="114, 391" pocketActive="396"
+	nameimage="playername_imposter.png" portrait="playerportrait_imposter.png" skin="character_imposter.png" skincolor="-1" costumeSuffix="imposter" birthright="You have drip"
+	bSkinParent="Amogus"/>
+</players>

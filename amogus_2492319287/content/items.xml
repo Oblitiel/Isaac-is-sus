@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+<!-- AMOGUS START -->
+<passive cache="speed damage" gfx="Drip_Boots.png" description="You look pretty sus" name="Drip" quality="3" />
+<!-- AMOGUS END -->
+</items>

@@ -1,0 +1,4 @@
+<costumes anm2root="gfx/">
+	<costume anm2path="TemplateHair.anm2" priority="99" type="none" />
+	<costume id="391" anm2path="391_betrayal.anm2" type="passive"  />
+</costumes>
